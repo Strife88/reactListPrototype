@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ba17fb5.chunk.css",
+    "main.js": "/static/js/main.7f22e873.chunk.js",
+    "main.js.map": "/static/js/main.7f22e873.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.098709f7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.098709f7.js.map",
+    "static/js/2.23e42f0e.chunk.js": "/static/js/2.23e42f0e.chunk.js",
+    "static/js/2.23e42f0e.chunk.js.map": "/static/js/2.23e42f0e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.18a6902bd17b69a93e67c71ab93443f2.js": "/precache-manifest.18a6902bd17b69a93e67c71ab93443f2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3ba17fb5.chunk.css.map": "/static/css/main.3ba17fb5.chunk.css.map",
+    "static/js/2.23e42f0e.chunk.js.LICENSE.txt": "/static/js/2.23e42f0e.chunk.js.LICENSE.txt",
+    "static/media/InlineMenu.module.css": "/static/media/ic-arrow-16-black.8e8922ea.svg",
+    "static/media/Header.module.css": "/static/media/logo120.391ce3ff.svg",
+    "static/media/MenuElement.module.css": "/static/media/icTrash.a050db4e.svg",
+    "static/media/Breadcrumbs.module.css": "/static/media/icArrow.65bb9901.svg",
+    "static/media/GoodsComp.module.css": "/static/media/image2.19118c3c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.098709f7.js",
+    "static/js/2.23e42f0e.chunk.js",
+    "static/css/main.3ba17fb5.chunk.css",
+    "static/js/main.7f22e873.chunk.js"
+  ]
+}
